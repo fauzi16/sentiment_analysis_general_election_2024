@@ -1,0 +1,266 @@
+n_iterations: 1
+n_required_iterations: 2
+n_possible_iterations: 1
+min_resources_: 5798
+max_resources_: 5798
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 6
+n_resources: 5798
+Fitting 5 folds for each of 6 candidates, totalling 30 fits
+{'vectorizer': TfidfVectorizer(max_features=10000, ngram_range=(1, 2))}
+Pipeline(steps=[('vectorizer',
+                 TfidfVectorizer(max_features=10000, ngram_range=(1, 2))),
+                ('smote', SMOTE()), ('clf', MLPClassifier())])
+              precision    recall  f1-score   support
+
+           0       0.67      0.68      0.68      1144
+           1       0.72      0.72      0.72      1341
+
+    accuracy                           0.70      2485
+   macro avg       0.70      0.70      0.70      2485
+weighted avg       0.70      0.70      0.70      2485
+
+   iter  n_resources  mean_fit_time  std_fit_time  mean_score_time  \
+4     0         5798    1208.064206    153.477044         0.153587   
+3     0         5798    1223.309951    204.542428         0.261499   
+2     0         5798    1226.601214    105.873101         0.117484   
+0     0         5798    1413.910236    108.089586         0.124269   
+1     0         5798    1222.356794    198.433982         0.144814   
+
+   std_score_time                                   param_vectorizer  \
+4        0.055536  TfidfVectorizer(max_features=10000, ngram_rang...   
+3        0.049640  TfidfVectorizer(max_features=10000, ngram_rang...   
+2        0.008403  TfidfVectorizer(max_features=10000, ngram_rang...   
+0        0.010433                TfidfVectorizer(max_features=10000)   
+1        0.011005  TfidfVectorizer(max_features=10000, ngram_rang...   
+
+                                              params  split0_test_score  \
+4  {'vectorizer': TfidfVectorizer(max_features=10...           0.714866   
+3  {'vectorizer': TfidfVectorizer(max_features=10...           0.707416   
+2  {'vectorizer': TfidfVectorizer(max_features=10...           0.709924   
+0  {'vectorizer': TfidfVectorizer(max_features=10...           0.689712   
+1  {'vectorizer': TfidfVectorizer(max_features=10...           0.677659   
+
+   split1_test_score  ...  mean_test_score  std_test_score  rank_test_score  \
+4           0.714406  ...         0.712067        0.009015                1   
+3           0.722269  ...         0.710657        0.006695                2   
+2           0.690625  ...         0.697542        0.008330                3   
+0           0.715102  ...         0.693635        0.014360                4   
+1           0.670721  ...         0.680344        0.014326                5   
+
+   split0_train_score  split1_train_score  split2_train_score  \
+4            0.995086            0.995915            0.995086   
+3            0.994676            0.995908            0.994872   
+2            0.967444            0.969501            0.969369   
+0            0.996109            0.996324            0.995494   
+1            0.989142            0.989953            0.988916   
+
+   split3_train_score  split4_train_score  mean_train_score  std_train_score  
+4            0.995086            0.995703          0.995375         0.000360  
+3            0.994670            0.994897          0.995005         0.000462  
+2            0.964729            0.974047          0.969018         0.003050  
+0            0.995282            0.995495          0.995741         0.000402  
+1            0.989551            0.989978          0.989508         0.000425  
+
+[5 rows x 23 columns]
+n_iterations: 1
+n_required_iterations: 2
+n_possible_iterations: 1
+min_resources_: 5798
+max_resources_: 5798
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 4
+n_resources: 5798
+Fitting 5 folds for each of 4 candidates, totalling 20 fits
+c:\users\fauzi\appdata\local\programs\python\python39\lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:702: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+{'clf__activation': 'logistic', 'vectorizer': TfidfVectorizer(max_features=10000, ngram_range=(1, 3))}
+Pipeline(steps=[('vectorizer',
+                 TfidfVectorizer(max_features=10000, ngram_range=(1, 3))),
+                ('smote', SMOTE()),
+                ('clf', MLPClassifier(activation='logistic'))])
+              precision    recall  f1-score   support
+
+           0       0.65      0.67      0.66      1144
+           1       0.71      0.70      0.70      1341
+
+    accuracy                           0.68      2485
+   macro avg       0.68      0.68      0.68      2485
+weighted avg       0.68      0.68      0.68      2485
+
+   iter  n_resources  mean_fit_time  std_fit_time  mean_score_time  \
+1     0         5798    2183.713335     14.857874         0.268351   
+2     0         5798    1200.807423     93.302288         0.217210   
+3     0         5798     885.051591    308.956344         0.069844   
+0     0         5798    1167.377665     90.832518         0.271075   
+
+   std_score_time param_clf__activation  \
+1        0.074686              logistic   
+2        0.061139                  tanh   
+3        0.028373                  relu   
+0        0.013490              identity   
+
+                                    param_vectorizer  \
+1  TfidfVectorizer(max_features=10000, ngram_rang...   
+2  TfidfVectorizer(max_features=10000, ngram_rang...   
+3  TfidfVectorizer(max_features=10000, ngram_rang...   
+0  TfidfVectorizer(max_features=10000, ngram_rang...   
+
+                                              params  split0_test_score  ...  \
+1  {'clf__activation': 'logistic', 'vectorizer': ...           0.706656  ...   
+2  {'clf__activation': 'tanh', 'vectorizer': Tfid...           0.704731  ...   
+3  {'clf__activation': 'relu', 'vectorizer': Tfid...           0.697143  ...   
+0  {'clf__activation': 'identity', 'vectorizer': ...           0.706840  ...   
+
+   mean_test_score  std_test_score  rank_test_score  split0_train_score  \
+1         0.710622        0.006726                1            0.994661   
+2         0.709070        0.007205                2            0.994672   
+3         0.708376        0.007086                3            0.995070   
+0         0.707999        0.003461                4            0.994670   
+
+   split1_train_score  split2_train_score  split3_train_score  \
+1            0.995286            0.994683            0.994260   
+2            0.995290            0.994457            0.993646   
+3            0.995492            0.994681            0.994666   
+0            0.995074            0.994480            0.993651   
+
+   split4_train_score  mean_train_score  std_train_score  
+1            0.994672          0.994712         0.000328  
+2            0.994674          0.994548         0.000530  
+3            0.995286          0.995039         0.000327  
+0            0.994886          0.994552         0.000493  
+
+[4 rows x 24 columns]
+n_iterations: 1
+n_required_iterations: 2
+n_possible_iterations: 1
+min_resources_: 5798
+max_resources_: 5798
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 3
+n_resources: 5798
+Fitting 5 folds for each of 3 candidates, totalling 15 fits
+{'clf__solver': 'sgd', 'vectorizer': TfidfVectorizer(max_features=10000, ngram_range=(1, 3))}
+Pipeline(steps=[('vectorizer',
+                 TfidfVectorizer(max_features=10000, ngram_range=(1, 3))),
+                ('smote', SMOTE()), ('clf', MLPClassifier(solver='sgd'))])
+              precision    recall  f1-score   support
+
+           0       0.73      0.65      0.69      1144
+           1       0.73      0.79      0.76      1341
+
+    accuracy                           0.73      2485
+   macro avg       0.73      0.72      0.72      2485
+weighted avg       0.73      0.73      0.72      2485
+
+   iter  n_resources  mean_fit_time  std_fit_time  mean_score_time  \
+1     0         5798    1206.360655      4.440867         0.122956   
+0     0         5798     428.692896     35.476375         0.269879   
+2     0         5798     943.712526    141.449227         0.129061   
+
+   std_score_time param_clf__solver  \
+1        0.044024               sgd   
+0        0.037095             lbfgs   
+2        0.088197              adam   
+
+                                    param_vectorizer  \
+1  TfidfVectorizer(max_features=10000, ngram_rang...   
+0  TfidfVectorizer(max_features=10000, ngram_rang...   
+2  TfidfVectorizer(max_features=10000, ngram_rang...   
+
+                                              params  split0_test_score  ...  \
+1  {'clf__solver': 'sgd', 'vectorizer': TfidfVect...           0.747853  ...   
+0  {'clf__solver': 'lbfgs', 'vectorizer': TfidfVe...           0.723748  ...   
+2  {'clf__solver': 'adam', 'vectorizer': TfidfVec...           0.706840  ...   
+
+   mean_test_score  std_test_score  rank_test_score  split0_train_score  \
+1         0.752765        0.004728                1            0.786100   
+0         0.717179        0.010941                2            0.994880   
+2         0.709274        0.006901                3            0.994882   
+
+   split1_train_score  split2_train_score  split3_train_score  \
+1            0.774749            0.776517            0.775044   
+0            0.994676            0.994672            0.994679   
+2            0.995086            0.994480            0.994457   
+
+   split4_train_score  mean_train_score  std_train_score  
+1            0.775316          0.777545         0.004319  
+0            0.995492          0.994880         0.000316  
+2            0.994899          0.994761         0.000249  
+
+n_iterations: 1
+n_required_iterations: 2
+n_possible_iterations: 1
+min_resources_: 5798
+max_resources_: 5798
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 4
+n_resources: 5798
+Fitting 5 folds for each of 4 candidates, totalling 20 fits
+{'clf__hidden_layer_sizes': (100, 50), 'vectorizer': TfidfVectorizer(max_features=10000, ngram_range=(1, 3))}
+Pipeline(steps=[('vectorizer',
+                 TfidfVectorizer(max_features=10000, ngram_range=(1, 3))),
+                ('smote', SMOTE()),
+                ('clf', MLPClassifier(hidden_layer_sizes=(100, 50)))])
+              precision    recall  f1-score   support
+
+           0       0.66      0.67      0.66      1144
+           1       0.71      0.70      0.71      1341
+
+    accuracy                           0.69      2485
+   macro avg       0.68      0.68      0.68      2485
+weighted avg       0.69      0.69      0.69      2485
+
+   iter  n_resources  mean_fit_time  std_fit_time  mean_score_time  \
+1     0         5798     678.045987    115.450347         0.329916   
+0     0         5798    1229.088835     60.112591         0.219475   
+3     0         5798     562.458234     88.300820         0.090960   
+2     0         5798     648.193469    278.082349         0.269606   
+
+   std_score_time param_clf__hidden_layer_sizes  \
+1        0.027813                     (100, 50)   
+0        0.063851                        (100,)   
+3        0.054003             (100, 70, 40, 10)   
+2        0.096398                 (100, 50, 10)   
+
+                                    param_vectorizer  \
+1  TfidfVectorizer(max_features=10000, ngram_rang...   
+0  TfidfVectorizer(max_features=10000, ngram_rang...   
+3  TfidfVectorizer(max_features=10000, ngram_rang...   
+2  TfidfVectorizer(max_features=10000, ngram_rang...   
+
+                                              params  split0_test_score  ...  \
+1  {'clf__hidden_layer_sizes': (100, 50), 'vector...           0.701554  ...   
+0  {'clf__hidden_layer_sizes': (100,), 'vectorize...           0.702041  ...   
+3  {'clf__hidden_layer_sizes': (100, 70, 40, 10),...           0.706924  ...   
+2  {'clf__hidden_layer_sizes': (100, 50, 10), 've...           0.710191  ...   
+
+   mean_test_score  std_test_score  rank_test_score  split0_train_score  \
+1         0.711845        0.010921                1            0.995072   
+0         0.708481        0.004670                2            0.995076   
+3         0.704214        0.011197                3            0.995084   
+2         0.570058        0.285097                4            0.995090   
+
+   split1_train_score  split2_train_score  split3_train_score  \
+1            0.995301            0.994690            0.994464   
+0            0.995494            0.994674            0.994668   
+3            0.996114            0.994661            0.994672   
+2            0.000000            0.994676            0.994274   
+
+   split4_train_score  mean_train_score  std_train_score  
+1            0.995284          0.994962         0.000333  
+0            0.995296          0.995041         0.000330  
+3            0.995276          0.995161         0.000532  
+2            0.995080          0.795824         0.397912

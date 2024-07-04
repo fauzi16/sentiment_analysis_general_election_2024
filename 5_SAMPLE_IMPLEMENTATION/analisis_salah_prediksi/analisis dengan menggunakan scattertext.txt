@@ -1,0 +1,9 @@
+- Analisis Pola Sentimen Salah Prediksi
+	- Object Analisis:
+		- ScatterText - unigram - semua jenis kata - hasil klasifikasi yang tepat
+		- ScatterText - unigram - semua jenis kata - hasil klasifikasi yang salah
+	- Tujuan: membandingkan kemunculan token atau kata pada 2 scattertext seharusnya saling berlawanan.
+- Analisis Pola irisan Pemodelan Topik.
+	- Object Analisis:	
+		- ScatterText - token hasil pemodelan topik (bitrigram - kata benda) - hasil pemodelan topik dari cuitan bersentimen positif dan negatif
+	- Tujuan: mencari token-token hasil pemodelan topik dengan Teknik LDA yang bersingungan

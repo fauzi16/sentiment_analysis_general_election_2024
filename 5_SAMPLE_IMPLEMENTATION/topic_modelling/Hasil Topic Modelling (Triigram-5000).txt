@@ -1,0 +1,178 @@
+Detected Topic for Positive - Semua Tahapan: 
+Top 10 words for topic #0:
+['lucu milu serentak', 'hsl caleg aku', 'caleg aku hasil', 'prasarana hsl caleg', 'aku hasil pilpres', 'sarana prasarana hsl', 'milu serentak sarana', 'serentak sarana prasarana', 'pilpres tuduh curang', 'hasil pilpres tuduh']
+
+
+Top 10 words for topic #1:
+['loudly crying face', 'jalan jujur adil', 'tolak hasil milu', 'hasil milu curang', 'brigade01arwan1 aniesbaswedan cakiminow', 'aniesbaswedan cakiminow zainul', 'zainul munas imansyukri', 'cakiminow zainul munas', 'milu jujur adil', 'milu luber jurdil']
+
+
+Top 10 words for topic #2:
+['hak angket dpr', 'demo tolak milu', 'dukung hak angket', 'responden nilai milu', 'mayoritas responden nilai', 'indikator mayoritas responden', 'survei indikator mayoritas', 'nilai milu jujur', 'milu jujur adil', 'tolak milu curang']
+
+
+Top 10 words for topic #3:
+['ganjar pranowo bukti', 'bebas rahasia jujur', 'rahasia jujur adil', 'kita02bikinbirugbk yukmulai bersiapkejakarta', 'yesb w0gbran menang', 'adil ganjar pranowo', 'pilih milu serah', 'langsung bebas rahasia', 'milu bersih adil', 'awas milu curang']
+
+
+Top 10 words for topic #4:
+['kawal milu jurdil', 'face with smiling', 'with smiling eyes', 'milu adil transparan', 'hands light skin', 'jaga integritas milu', 'pemiludamainegerimaju pemilu2024bebashoaks pemilu2024menujuindonesiamaju', 'pemiludamai2024 pemiludamainegerimaju pemilu2024bebashoaks', 'light skin tone', 'pemilu2024 pemiludamai2024 pemiludamainegerimaju']
+
+
+Detected Topic for Negative - Semua Tahapan: 
+Top 10 words for topic #0:
+['curang milu jurdil', 'smiling face with', 'crying face loudly', 'face loudly crying', 'face with sweat', 'beaming face with', 'grining face with', 'face with smiling', 'with smiling eyes', 'loudly crying face']
+
+
+Top 10 words for topic #1:
+['hak angket milu', 'bilang milu curang', 'curang demokrasidamaitanpahoax ber1beraniberubah', 'demokrasidamaitanpahoax ber1beraniberubah pestarakyat02', 'milu curang demokrasidamaitanpahoax', 'face with hand', 'with hand over', 'hand over mouth', 'hasil milu curang', 'awas milu curang']
+
+
+Top 10 words for topic #2:
+['sirekap rip demokrasi', 'rip demokrasi curang', 'zy its me', 'zy zy its', 'tuduh milu curang', 'terima hasil milu', 'kalo milu curang', 'milu enggak curang', '02pemiludamai rakyatolak hakangket', 'tolak milu curang']
+
+
+Top 10 words for topic #3:
+['of joy face', 'joy face with', 'laughing roling on', 'flor laughing roling', 'face with tears', 'tears of joy', 'with tears of', 'on the flor', 'the flor laughing', 'roling on the']
+
+
+Top 10 words for topic #4:
+['dunia akhirat rakyat', 'milu jujur dapat', 'pimpin amanah indonesia', 'jujur dapat pimpin', 'dapat pimpin amanah', 'alah hina buat', 'hina buat curang', 'alahuakbar alah hina', 'rakyat indonesia milu', 'indonesia milu jujur']
+
+
+
+
+
+
+Detected Topic for Positive - Tahapan Masa Kampanye: 
+Top 10 words for topic #0:
+['jalan jujur fairplay', 'sukseskanpemilu2024 pemilu2024kondusif asnetral', 'asn hal jaga', 'hal jaga awas', 'bebas rahasia jujur', 'langsung bebas rahasia', 'rahasia jujur adil', 'jaga awas milu', 'pemilu2024amandamai sukseskanpemilu2024 pemilu2024kondusif', 'milu jujur adil']
+
+
+Top 10 words for topic #1:
+['wujud milu damai', 'asas milu luber', 'w0gbran menang wujud', 'mari wujud milu', 'w0gbran menang cipta', 'awas milu curang', 'adil kita02bikinbirugbk yukmulai', 'milu luber jurdil', 'kita02bikinbirugbk yukmulai bersiapkejakarta', 'yesb w0gbran menang']
+
+
+Top 10 words for topic #2:
+['dukung pbowogbran bikinadem', 'damai jujur adil', 'pilih milu serah', 'adil 10febkitabirukangbk yuksiapin', '10febkitabirukangbk yuksiapin kaosgemoynya', 'pbowogbran bikinadem wujud', 'pakbowogbran pilihanpasti wujud', 'adil pindah02bolehbanget mengalirderas', 'pindah02bolehbanget mengalirderas yangdukung', 'awas milu curang']
+
+
+Top 10 words for topic #3:
+['pilih milu hak', 'milu serah masyarakat', 'pilih milu serah', 'barengmas b0w0gbran cipta', 'cipta bangsa adil', 'pakbowogbran pilihanpasti cipta', 'barengmas b0w0gbran wujud', 'adil kamukita02biruingbk sabtubiru', 'kamukita02biruingbk sabtubiru pestarakyat', 'milu jujur adil']
+
+
+Top 10 words for topic #4:
+['bedan jaga aman', 'milu jurdil hasil', 'jalan proses milu', 'imansyukri milu jurdil', 'proses milu adil', 'munas imansyukri milu', 'brigade01arwan1 aniesbaswedan cakiminow', 'aniesbaswedan cakiminow zainul', 'zainul munas imansyukri', 'cakiminow zainul munas']
+
+
+Detected Topic for Negative - Tahapan Masa Kampanye: 
+Top 10 words for topic #0:
+['rezim dinasti condong', 'haram konstitusi milu', 'selamat pertiwi rezim', 'jujur anak presiden', 'grining face grining', 'face grining face', 'anak haram konstitusi', 'milu awas milu', 'milu jujur adil', 'awas milu curang']
+
+
+Top 10 words for topic #1:
+['light skin tone', 'beaming face with', 'smiling face with', 'crying face loudly', 'face loudly crying', 'face with sweat', 'with smiling eyes', 'face with smiling', 'grining face with', 'loudly crying face']
+
+
+Top 10 words for topic #2:
+['curang jis vs', 'milu curang jis', 'jis vs gbk', 'tears of joy', 'face with tears', 'with tears of', 'demokrasidamaitanpahoax ber1beraniberubah pestarakyat02', 'milu curang demokrasidamaitanpahoax', 'curang demokrasidamaitanpahoax ber1beraniberubah', 'awas milu curang']
+
+
+Top 10 words for topic #3:
+['with hand over', 'face with hand', 'milu curang perang', 'hati awas milu', 'teriak milu curang', 'double exclamation mark', 'milu jalan jujur', 'id bawaslu ri', 'kpu id bawaslu', 'milu jujur adil']
+
+
+Top 10 words for topic #4:
+['kpk aniesbaswedan cakiminow', 'bewok dukung koruptor', 'lampir hina gen', 'prabowo gibran pimpin', 'aniesbaswedan cakiminow ganjarpranowo', 'flor laughing roling', 'laughing roling on', 'roling on the', 'on the flor', 'the flor laughing']
+
+
+
+
+
+
+Detected Topic for Positive - Tahapan Masa Tenang: 
+Top 10 words for topic #0:
+['wujud milu damai', 'aman netralitas pemiludamai', 'netralitas pemiludamai demokrasiberkualitas', 'asn wujud milu', 'milu damai demokratis', 'light skin tone', 'milu damai jujur', 'milu adil transparan', 'damai jujur adil', 'jaga tni polri']
+
+
+Top 10 words for topic #1:
+['bahagia amin menang', 'senang bahagia amin', 'cipta milu adil', 'transparan demokratis senang', 'demokratis senang bahagia', '01aminwinelection aniesbaswedan cakiminow', 'amin menang putar', 'jurdil transparan demokratis', 'milu jurdil transparan', 'milu jujur adil']
+
+
+Top 10 words for topic #2:
+['smiling face with', 'tolak milu curang', 'milu adil jujur', 'milu jalan jurdil', 'wujud milu jujur', 'jalan jujur adil', 'yuk download wargajagasuara', 'moga milu jalan', 'milu jalan jujur', 'milu jujur adil']
+
+
+Top 10 words for topic #3:
+['sukses penyelengaran milu', 'milu luber jurdil', 'milu bersih jujur', 'folded hands light', 'pelaksanan milu jalan', 'awas milu curang', 'hands light skin', 'jalan jujur adil', 'milu jalan jujur', 'light skin tone']
+
+
+Top 10 words for topic #4:
+['milu hak rakyat', 'kawal milu jujur', 'indonesia adil kita2rabubiruintps', 'pastin juara cipta', 'milu luber jurdil', 'dukung pastin juara', 'milu jujur adil', 'pastin juara wujud', 'adil kita2rabubiruintps kalah', 'kita2rabubiruintps kalah tukangfitnah']
+
+
+Detected Topic for Negative - Tahapan Masa Tenang: 
+Top 10 words for topic #0:
+['awas milu curang', 'grining face with', 'laughing roling on', 'flor laughing roling', 'beaming face with', 'face with smiling', 'with smiling eyes', 'roling on the', 'the flor laughing', 'on the flor']
+
+
+Top 10 words for topic #1:
+['laku pelangaran ham', 'pelangaran ham kayak', 'smiling face with', 'korban pelangaran ham', 'vs gbk kumpulakbarjis01', 'milu curang jis', 'gbk kumpulakbarjis01 sakit', 'curang jis vs', 'jis vs gbk', 'awas milu curang']
+
+
+Top 10 words for topic #2:
+['mata pilih poros', 'pilih poros rusak', 'buka mata pilih', 'save demokrasi tolakdinastipolitik', 'awas milu curang', 'nauseated face nauseated', 'face nauseated face', 'face loudly crying', 'crying face loudly', 'loudly crying face']
+
+
+Top 10 words for topic #3:
+['face with tear', 'with crosed out', 'out eyes dizy', 'crosed out eyes', 'face with crosed', 'smiling face with', 'down backhand index', 'pointing down backhand', 'index pointing down', 'backhand index pointing']
+
+
+Top 10 words for topic #4:
+['palms up together', 'awas milu curang', 'id bawaslu ri', 'kpu id bawaslu', 'face with sweat', 'grining face with', 'milu jujur adil', 'with tears of', 'tears of joy', 'face with tears']
+
+
+
+
+
+
+Detected Topic for Positive - Tahapan Masa Pemungutan-Perhitungan Suara: 
+Top 10 words for topic #0:
+['hsl caleg aku', 'prasarana hsl caleg', 'caleg aku hasil', 'sarana prasarana hsl', 'hasil pilpres tuduh', 'pilpres tuduh curang', 'serentak sarana prasarana', 'milu serentak sarana', 'aku hasil pilpres', 'milu jujur adil']
+
+
+Top 10 words for topic #1:
+['refleksi kualitas demokrasi', 'pemiludamai2024 pemiludamainegerimaju pemilu2024bebashoaks', 'tentu bangsa milu', 'pemilu2024 pemiludamai2024 pemiludamainegerimaju', 'milu adil transparan', 'milu bersih curang', 'bersih curang esensial', 'curang esensial jaga', 'esensial jaga proses', 'jaga proses demokratis']
+
+
+Top 10 words for topic #2:
+['nilai milu jujur', 'the flor laughing', 'roling on the', 'on the flor', 'adil yukmoveonyuk fokusiapin', 'jujur amp adil', 'yukmoveonyuk fokusiapin masadepan', 'light skin tone', 'tolak milu curang', 'milu adil jujur']
+
+
+Top 10 words for topic #3:
+['tuduh curang kalah', 'double exclamation mark', 'bilang milu curang', 'milu tuduh curang', 'hak angket dpr', 'demo tolak milu', 'dukung hak angket', 'hasil milu curang', 'tolak hasil milu', 'tolak milu curang']
+
+
+Top 10 words for topic #4:
+['adil kesejahteran lipat', 'jalan jujur adil', 'kesejahteran lipat ganda', 'lipat ganda indonesia', 'ganda indonesia makmur', 'indonesia makmur sentosa', 'milu luber jurdil', 'ganjar pranowo bukti', 'milu bersih adil', 'adil ganjar pranowo']
+
+
+Detected Topic for Negative - Tahapan Masa Pemungutan-Perhitungan Suara: 
+Top 10 words for topic #0:
+['hak angket milu', 'lawan milu curang', 'milu enggak curang', 'hasil milu curang', 'milu jujur adil', 'gendut rip demokrasi', 'sirekap gendut rip', 'rip demokrasi curang', 'tolak milu curang', '02pemiludamai rakyatolak hakangket']
+
+
+Top 10 words for topic #1:
+['smiling face with', 'id bawaslu ri', 'kpu id bawaslu', 'grining face with', 'face with sweat', 'joy face with', 'of joy face', 'face with tears', 'tears of joy', 'with tears of']
+
+
+Top 10 words for topic #2:
+['dunia akhirat rakyat', 'dapat pimpin amanah', 'pimpin amanah indonesia', 'jujur dapat pimpin', 'milu jujur dapat', 'hina buat curang', 'alah hina buat', 'alahuakbar alah hina', 'rakyat indonesia milu', 'indonesia milu jujur']
+
+
+Top 10 words for topic #3:
+['face grining face', 'batal hasil milu', 'tolak milu curang', 'curang milu ulang', 'hak angket dpr', 'milu curang tsm', 'face with hand', 'with hand over', 'hand over mouth', 'hasil milu curang']
+
+
+Top 10 words for topic #4:
+['bilang milu curang', 'beaming face with', 'loudly crying face', 'face with smiling', 'with smiling eyes', 'flor laughing roling', 'laughing roling on', 'roling on the', 'the flor laughing', 'on the flor']

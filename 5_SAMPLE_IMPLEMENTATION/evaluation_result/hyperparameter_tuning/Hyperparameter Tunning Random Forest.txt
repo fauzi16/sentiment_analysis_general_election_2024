@@ -1,0 +1,86 @@
+n_iterations: 3
+n_required_iterations: 4
+n_possible_iterations: 3
+min_resources_: 643
+max_resources_: 5798
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 36
+n_resources: 643
+Fitting 5 folds for each of 36 candidates, totalling 180 fits
+----------
+iter: 1
+n_candidates: 12
+n_resources: 1929
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+----------
+iter: 2
+n_candidates: 4
+n_resources: 5787
+Fitting 5 folds for each of 4 candidates, totalling 20 fits
+{'clf__max_depth': 100, 'clf__n_estimators': 500, 'vectorizer': TfidfVectorizer(max_features=10000, ngram_range=(1, 2))}
+Pipeline(steps=[('vectorizer',
+                 TfidfVectorizer(max_features=10000, ngram_range=(1, 2))),
+                ('smote', SMOTE()),
+                ('clf',
+                 RandomForestClassifier(max_depth=100, n_estimators=500,
+                                        n_jobs=-1))])
+              precision    recall  f1-score   support
+
+           0       0.74      0.70      0.72      1144
+           1       0.76      0.79      0.77      1341
+
+    accuracy                           0.75      2485
+   macro avg       0.75      0.75      0.75      2485
+weighted avg       0.75      0.75      0.75      2485
+
+    iter  n_resources  mean_fit_time  std_fit_time  mean_score_time  \
+49     2         5787      13.937152      3.623854         5.307212   
+50     2         5787      11.115344      2.835356         5.405150   
+51     2         5787      27.402482      4.711458         1.249776   
+48     2         5787      39.102149      0.749409         4.268589   
+43     1         1929      10.192950      0.919122         1.203383   
+
+    std_score_time param_clf__max_depth param_clf__n_estimators  \
+49        1.253844                  100                     500   
+50        1.231109                  100                     100   
+51        0.850174                  100                    1000   
+48        0.195739                 None                    1000   
+43        0.738651                  100                    1000   
+
+                                     param_vectorizer  \
+49  TfidfVectorizer(max_features=10000, ngram_rang...   
+50  TfidfVectorizer(max_features=10000, ngram_rang...   
+51  TfidfVectorizer(max_features=10000, ngram_rang...   
+48  TfidfVectorizer(max_features=10000, ngram_rang...   
+43  TfidfVectorizer(max_features=10000, ngram_rang...   
+
+                                               params  ...  mean_test_score  \
+49  {'clf__max_depth': 100, 'clf__n_estimators': 5...  ...         0.763320   
+50  {'clf__max_depth': 100, 'clf__n_estimators': 1...  ...         0.760976   
+51  {'clf__max_depth': 100, 'clf__n_estimators': 1...  ...         0.760878   
+48  {'clf__max_depth': None, 'clf__n_estimators': ...  ...         0.760148   
+43  {'clf__max_depth': 100, 'clf__n_estimators': 1...  ...         0.750127   
+
+    std_test_score  rank_test_score  split0_train_score  split1_train_score  \
+49        0.007734                1            0.986558            0.989020   
+50        0.007466                2            0.981553            0.983799   
+51        0.007163                3            0.987172            0.986802   
+48        0.006768                4            0.995278            0.996106   
+43        0.017179                5            0.997519            0.996873   
+
+    split2_train_score  split3_train_score  split4_train_score  \
+49            0.986368            0.986357            0.988408   
+50            0.982349            0.986759            0.984578   
+51            0.986374            0.986564            0.988412   
+48            0.994870            0.994863            0.995488   
+43            0.995092            0.997596            0.999391   
+
+    mean_train_score  std_train_score  
+49          0.987342         0.001139  
+50          0.983808         0.001817  
+51          0.987065         0.000725  
+48          0.995321         0.000460  
+43          0.997294         0.001383 

@@ -1,0 +1,178 @@
+Detected Topic for Positive - Semua Tahapan: 
+Top 10 words for topic #0:
+['serah', 'proses', 'hak', 'pilih', 'dukung', 'jujur', 'wujud', 'cipta', 'adil', 'milu']
+
+
+Top 10 words for topic #1:
+['lawan', 'awas', 'kpu', 'rakyat', 'dpr', 'angket', 'hak', 'tolak', 'milu', 'curang']
+
+
+Top 10 words for topic #2:
+['indonesia', 'hasil', 'demokratis', 'jalan', 'rakyat', 'damai', 'jurdil', 'adil', 'jujur', 'milu']
+
+
+Top 10 words for topic #3:
+['pilih', 'kalo', 'face', 'adil', 'ganjar', 'kalah', 'curang', 'enggak', 'jujur', 'milu']
+
+
+Top 10 words for topic #4:
+['asas', 'pilih', 'jaga', 'bebas', 'jujur', 'pilpres', 'luber', 'adil', 'jurdil', 'milu']
+
+
+Detected Topic for Negative - Semua Tahapan: 
+Top 10 words for topic #0:
+['ri', 'bawaslu', 'id', 'flor', 'laughing', 'milu', 'roling', 'on', 'the', 'kpu']
+
+
+Top 10 words for topic #1:
+['grining', 'eyes', 'smiling', 'joy', 'tears', 'of', 'curang', 'milu', 'with', 'face']
+
+
+Top 10 words for topic #2:
+['maka', 'bukti', 'kalah', 'sudah', 'paslon', 'menang', 'kalo', 'enggak', 'curang', 'milu']
+
+
+Top 10 words for topic #3:
+['jujur', 'hasil', 'demokrasi', 'indonesia', 'hak', 'angket', 'jokowi', 'rakyat', 'curang', 'milu']
+
+
+Top 10 words for topic #4:
+['ya', 'dengan', 'tidak', 'orang', 'jurdil', 'menang', 'enggak', 'jujur', 'curang', 'milu']
+
+
+
+
+
+
+Detected Topic for Positive - Tahapan Masa Kampanye: 
+Top 10 words for topic #0:
+['jalan', 'jujur', 'munas', 'zainul', 'jaga', 'cakiminow', 'jurdil', 'aniesbaswedan', 'adil', 'milu']
+
+
+Top 10 words for topic #1:
+['jaga', 'mari', 'jalan', 'aman', 'awas', 'curang', 'jujur', 'damai', 'adil', 'milu']
+
+
+Top 10 words for topic #2:
+['up', 'jujur', 'with', 'amp', 'luber', 'face', 'ganjar', 'adil', 'jurdil', 'milu']
+
+
+Top 10 words for topic #3:
+['dukung', 'jurdil', 'cipta', 'luber', 'serah', 'hak', 'wujud', 'pilih', 'adil', 'milu']
+
+
+Top 10 words for topic #4:
+['orang', 'kalo', 'rakyat', 'curang', 'jurdil', 'pilih', 'adil', 'enggak', 'jujur', 'milu']
+
+
+Detected Topic for Negative - Tahapan Masa Kampanye: 
+Top 10 words for topic #0:
+['adil', 'paslon', 'dukung', 'flor', 'laughing', 'milu', 'on', 'roling', 'amp', 'the']
+
+
+Top 10 words for topic #1:
+['tidak', 'adil', 'putar', 'jurdil', 'menang', 'kalo', 'jujur', 'enggak', 'curang', 'milu']
+
+
+Top 10 words for topic #2:
+['loudly', 'orang', 'crying', 'gue', 'curang', 'with', 'enggak', 'jujur', 'face', 'milu']
+
+
+Top 10 words for topic #3:
+['wowo', 'korupsi', 'gbk', 'pesawat', 'ber1beraniberubah', 'demokrasidamaitanpahoax', 'pestarakyat02', 'awas', 'milu', 'curang']
+
+
+Top 10 words for topic #4:
+['enggak', 'maka', 'rakyat', 'jujur', 'presiden', 'adil', 'curang', 'kpu', 'jurdil', 'milu']
+
+
+
+
+
+
+Detected Topic for Positive - Tahapan Masa Tenang: 
+Top 10 words for topic #0:
+['tukangfitnah', 'kita2rabubiruintps', 'juara', 'pastin', 'hak', 'jujur', 'pilih', 'adil', 'kalah', 'milu']
+
+
+Top 10 words for topic #1:
+['menang', 'kawal', 'dirtyvote', 'amin', 'cakiminow', 'aniesbaswedan', 'adil', 'jujur', 'jurdil', 'milu']
+
+
+Top 10 words for topic #2:
+['jalan', 'kawal', 'yuk', 'jaga', 'curang', 'wargajagasuara', 'download', 'jujur', 'adil', 'milu']
+
+
+Top 10 words for topic #3:
+['banget', 'damai', 'hands', 'luber', 'pilih', 'jurdil', 'face', 'enggak', 'jujur', 'milu']
+
+
+Top 10 words for topic #4:
+['ganjar', 'damai', 'jalan', 'pilih', 'rakyat', 'moga', 'indonesia', 'jujur', 'adil', 'milu']
+
+
+Detected Topic for Negative - Tahapan Masa Tenang: 
+Top 10 words for topic #0:
+['adil', 'kpu', 'kalo', 'loudly', 'crying', 'jujur', 'face', 'enggak', 'curang', 'milu']
+
+
+Top 10 words for topic #1:
+['jis', 'menang', 'vs', 'kalo', 'jujur', 'awas', 'sakit', 'enggak', 'curang', 'milu']
+
+
+Top 10 words for topic #2:
+['on', 'jujur', 'eyes', 'enggak', 'the', 'smiling', 'curang', 'with', 'milu', 'face']
+
+
+Top 10 words for topic #3:
+['down', 'tonton', 'pointing', 'index', 'jurdil', 'film', 'vote', 'dirty', 'curang', 'milu']
+
+
+Top 10 words for topic #4:
+['rakyat', 'demokrasi', 'prabowo', 'menang', 'pilih', 'jujur', 'jokowi', 'enggak', 'curang', 'milu']
+
+
+
+
+
+
+Detected Topic for Positive - Tahapan Masa Pemungutan-Perhitungan Suara: 
+Top 10 words for topic #0:
+['tuduh', 'caleg', 'hands', 'aku', 'hsl', 'curang', 'jujur', 'hasil', 'pilpres', 'milu']
+
+
+Top 10 words for topic #1:
+['pranowo', 'damai', 'rakyat', 'indonesia', 'bangabersamagpmd', 'kitadalahtiga', 'ganjar', 'jujur', 'adil', 'milu']
+
+
+Top 10 words for topic #2:
+['jaga', 'dukung', 'pilih', 'demokrasi', 'proses', 'demokratis', 'angket', 'adil', 'hak', 'milu']
+
+
+Top 10 words for topic #3:
+['lawan', 'kpu', 'dpr', 'hasil', 'amp', 'rakyat', 'jurdil', 'tolak', 'curang', 'milu']
+
+
+Top 10 words for topic #4:
+['jurdil', 'pilih', 'orang', 'kalo', 'menang', 'jujur', 'enggak', 'kalah', 'curang', 'milu']
+
+
+Detected Topic for Negative - Tahapan Masa Pemungutan-Perhitungan Suara: 
+Top 10 words for topic #0:
+['dpr', 'demokrasi', 'tolak', 'jokowi', 'rakyat', 'hasil', 'hak', 'angket', 'curang', 'milu']
+
+
+Top 10 words for topic #1:
+['bukti', 'orang', 'hasil', 'jujur', 'kalah', 'kalo', 'menang', 'enggak', 'milu', 'curang']
+
+
+Top 10 words for topic #2:
+['kalah', 'enggak', 'pusat', 'milu', 'curang', 'flor', 'laughing', 'roling', 'on', 'the']
+
+
+Top 10 words for topic #3:
+['id', 'jokowi', 'jurdil', 'adil', 'indonesia', 'jujur', 'rakyat', 'kpu', 'curang', 'milu']
+
+
+Top 10 words for topic #4:
+['grining', 'eyes', 'smiling', 'curang', 'joy', 'milu', 'tears', 'of', 'with', 'face']

@@ -1,0 +1,77 @@
+n_iterations: 3
+n_required_iterations: 6
+n_possible_iterations: 3
+min_resources_: 643
+max_resources_: 5798
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 600
+n_resources: 643
+Fitting 5 folds for each of 600 candidates, totalling 3000 fits
+----------
+iter: 1
+n_candidates: 200
+n_resources: 1929
+Fitting 5 folds for each of 200 candidates, totalling 1000 fits
+----------
+iter: 2
+n_candidates: 67
+n_resources: 5787
+Fitting 5 folds for each of 67 candidates, totalling 335 fits
+{'clf__C': 1.0, 'clf__penalty': 'l2', 'clf__solver': 'sag', 'vectorizer': TfidfVectorizer(max_features=10000)}
+Pipeline(steps=[('vectorizer', TfidfVectorizer(max_features=10000)),
+                ('smote', SMOTE()), ('clf', LogisticRegression(solver='sag'))])
+              precision    recall  f1-score   support
+
+           0       0.74      0.72      0.73      1144
+           1       0.76      0.78      0.77      1341
+
+    accuracy                           0.75      2485
+   macro avg       0.75      0.75      0.75      2485
+weighted avg       0.75      0.75      0.75      2485
+
+     iter  n_resources  mean_fit_time  std_fit_time  mean_score_time  \
+858     2         5787       0.693146      0.042526         0.042487   
+844     2         5787       1.163489      0.051513         0.062235   
+854     2         5787       2.168999      0.058445         0.094746   
+859     2         5787       1.512357      0.053976         0.072207   
+860     2         5787       1.604111      0.111271         0.070412   
+
+     std_score_time param_clf__C param_clf__penalty param_clf__solver  \
+858        0.010280          1.0                 l2               sag   
+844        0.005147          1.0                 l2               sag   
+854        0.002185          1.0                 l2         newton-cg   
+859        0.003919          1.0                 l2             lbfgs   
+860        0.006692          1.0                 l2         newton-cg   
+
+                                      param_vectorizer  ... mean_test_score  \
+858                TfidfVectorizer(max_features=10000)  ...        0.771186   
+844  TfidfVectorizer(max_features=10000, ngram_rang...  ...        0.770857   
+854  TfidfVectorizer(max_features=10000, ngram_rang...  ...        0.769848   
+859  TfidfVectorizer(max_features=10000, ngram_rang...  ...        0.769808   
+860  TfidfVectorizer(max_features=10000, ngram_rang...  ...        0.769401   
+
+    std_test_score  rank_test_score  split0_train_score  split1_train_score  \
+858       0.010989                1            0.870433            0.874975   
+844       0.003508                2            0.878362            0.880672   
+854       0.003608                3            0.873194            0.874975   
+859       0.004086                4            0.878800            0.881281   
+860       0.005020                5            0.879376            0.880657   
+
+     split2_train_score  split3_train_score  split4_train_score  \
+858            0.873178            0.868038            0.870664   
+844            0.877844            0.874850            0.880800   
+854            0.879760            0.874624            0.874324   
+859            0.879552            0.875452            0.879696   
+860            0.879920            0.875351            0.879472   
+
+     mean_train_score  std_train_score  
+858          0.871457         0.002396  
+844          0.878506         0.002181  
+854          0.875375         0.002272  
+859          0.878956         0.001929  
+860          0.878955         0.001858  
+
+[5 rows x 27 columns]

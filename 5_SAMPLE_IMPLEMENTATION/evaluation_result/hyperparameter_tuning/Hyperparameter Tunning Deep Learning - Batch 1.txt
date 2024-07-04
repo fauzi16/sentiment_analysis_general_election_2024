@@ -1,0 +1,82 @@
+n_iterations: 3
+n_required_iterations: 5
+n_possible_iterations: 3
+min_resources_: 643
+max_resources_: 5798
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 144
+n_resources: 643
+Fitting 5 folds for each of 144 candidates, totalling 720 fits
+----------
+iter: 1
+n_candidates: 48
+n_resources: 1929
+Fitting 5 folds for each of 48 candidates, totalling 240 fits
+----------
+iter: 2
+n_candidates: 16
+n_resources: 5787
+Fitting 5 folds for each of 16 candidates, totalling 80 fits
+{'clf__activation': 'identity', 'clf__hidden_layer_sizes': (100, 50, 10), 'clf__solver': 'sgd', 'vectorizer': TfidfVectorizer(max_features=10000)}
+Pipeline(steps=[('vectorizer', TfidfVectorizer(max_features=10000)),
+                ('smote', SMOTE()),
+                ('clf',
+                 MLPClassifier(activation='identity',
+                               hidden_layer_sizes=(100, 50, 10),
+                               solver='sgd'))])
+              precision    recall  f1-score   support
+
+           0       0.70      0.72      0.71      1144
+           1       0.76      0.74      0.75      1341
+
+    accuracy                           0.73      2485
+   macro avg       0.73      0.73      0.73      2485
+weighted avg       0.73      0.73      0.73      2485
+
+     iter  n_resources  mean_fit_time  std_fit_time  mean_score_time  \
+207     2         5787     864.817334    115.261122         0.033384   
+151     1         1929     247.470145      3.556491         0.046677   
+162     1         1929     214.871370      5.379499         0.045876   
+159     1         1929     165.548453     68.692237         0.047274   
+206     2         5787    1172.055386    154.979478         0.113069   
+
+     std_score_time param_clf__activation param_clf__hidden_layer_sizes  \
+207        0.014241              identity                 (100, 50, 10)   
+151        0.004296              identity                 (100, 50, 10)   
+162        0.005607                  tanh             (100, 70, 40, 10)   
+159        0.004070              identity             (100, 70, 40, 10)   
+206        0.045260                  tanh             (100, 70, 40, 10)   
+
+    param_clf__solver                     param_vectorizer  ...  \
+207               sgd  TfidfVectorizer(max_features=10000)  ...   
+151               sgd  TfidfVectorizer(max_features=10000)  ...   
+162               sgd  TfidfVectorizer(max_features=10000)  ...   
+159               sgd  TfidfVectorizer(max_features=10000)  ...   
+206               sgd  TfidfVectorizer(max_features=10000)  ...   
+
+    mean_test_score  std_test_score  rank_test_score  split0_train_score  \
+207        0.756904        0.015510                1            0.890155   
+151        0.743989        0.018236                2            0.820218   
+162        0.741366        0.018441                3            0.791248   
+159        0.732281        0.015199                4            0.834793   
+206        0.730905        0.012027                5            0.980400   
+
+     split1_train_score  split2_train_score  split3_train_score  \
+207            0.901274            0.875608            0.886785   
+151            0.805300            0.824852            0.805848   
+162            0.817699            0.791962            0.838824   
+159            0.881254            0.801673            0.849114   
+206            0.977348            0.971912            0.984381   
+
+     split4_train_score  mean_train_score  std_train_score  
+207            0.906075          0.891979         0.010802  
+151            0.845929          0.820429         0.014909  
+162            0.852556          0.818458         0.024578  
+159            0.669908          0.807348         0.073324  
+206            0.981730          0.979154         0.004271  
+
+[5 rows x 26 columns]
+total waktu yang dibutuhkan untuk membuat model deep learning adalah 11313.516602993011

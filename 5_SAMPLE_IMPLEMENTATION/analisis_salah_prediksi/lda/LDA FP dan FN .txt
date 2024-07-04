@@ -1,0 +1,40 @@
+Detected Topic for False Positive: 
+Top 10 words for topic #0:
+['anak kontestasi jadi', 'anak kontestasi', 'lengser jabat', 'lengser jabat solusi', 'hak angket dpr', 'upaya lindung', 'sandiuno kawal', 'lindung hak demokratis', 'lindung hak', 'upaya lindung hak']
+
+
+Top 10 words for topic #1:
+['orang tolak', 'hak angket', 'tungu komando', 'enggak usah', 'maling gahlil', 'maling gahlil laku', 'kalah teriak', 'kalo bilang', 'kalo sistem', 'demo tolak']
+
+
+Top 10 words for topic #2:
+['adi jadi', 'amp adi jadi', 'pdi juang', 'deras tuntut hak', 'tuntut hak', 'deras tuntut', 'tuntut hak masyarakat', 'angin kata', 'masuk angin kata', 'masuk angin']
+
+
+Top 10 words for topic #3:
+['tim awas', 'pilih hati nurani', 'pilih hati', 'enggak terima', 'kelompok beta pancasila', 'nkri tolak hak', 'tolak hak angket', 'dpr ri kait', 'tolak hak', 'ri kait']
+
+
+Top 10 words for topic #4:
+['liputan6dotcom pimpin', 'masyarakat kontra', 'ayo gerak', 'demokrasi tolak', 'ayo gerak demokrasi', 'ujung kalah', 'pekan keluarga suara', 'pekan keluarga', 'suara tolak', 'prabowo gibran']
+
+
+Detected Topic for False Negative: 
+Top 10 words for topic #0:
+['ber1beraniberubah pestarakyat02', 'demokrasidamaitanpahoax ber1beraniberubah', 'demokrasidamaitanpahoax ber1beraniberubah pestarakyat02', 'id ri', 'kpu id ri', 'hasil hitung', 'rakyat gagal jalan', 'rakyat gagal', 'politik uang', 'ketua kpu']
+
+
+Top 10 words for topic #1:
+['enggak berani', 'ha ha', 'moga enggak', 'rakyat bentrok', 'rakyat bentrok akibat', 'kalah reak', 'tolak hasil', 'mending bubar', 'mending bubar capres', 'bilang hasil']
+
+
+Top 10 words for topic #2:
+['terima tidak', 'enggak terima', 'dahnilanzar prabowo', 'angota dpr', 'negara demokrasi', 'menteri ambil kpu', 'menteri ambil', 'tingkat sistem', 'kalo bukti', 'ketua kpu']
+
+
+Top 10 words for topic #3:
+['rakyat demo kpu', 'gembar gembor', 'nakuti ingat', 'kasih nilai', 'enggak harap', 'paslon anak', 'paslon anak konstitusi', 'bawa mk', 'batal hasil', 'kpu id']
+
+
+Top 10 words for topic #4:
+['tugas kpu jadi', 'tugas kpu intervensi', 'tegak demokrasi', 'enggak menang', 'media sosial', 'dukunghakangketdpr dukunghakangketdpr', 'tugas kpu', 'hak angket', 'akhirat rakyat', 'pimpin amanah']
